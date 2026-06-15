@@ -1,4 +1,9 @@
 # RyzenBOX
+
+A powerful TV box featuring the ASRock 4x4 7840U-1U motherboard
+
+THIS PROJECT WILL BE A SUBMISSION TO HACKCLUB MACONDO. I AM NOT AN EMPLOYEE AT A COMPANY AND I AM A STANDALONE DESIGNER
+
 NOTE: the motherboard described is the ASRock Industrial 4x4, featuring the AMD Ryzen 7840U CPU and the listed specifications below. the board can be seen on ASRock's official website or at https://www.asrockind.com/en-gb/4X4-7840U-1U
 
 Front I/O
