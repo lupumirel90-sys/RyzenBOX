@@ -6,15 +6,13 @@ THIS PROJECT WILL BE A SUBMISSION TO HACKCLUB MACONDO. I AM NOT AN EMPLOYEE AT A
 
 NOTE: the motherboard described is the ASRock Industrial 4x4, featuring the AMD Ryzen 7840U CPU and the listed specifications below. the board can be seen on ASRock's official website or at https://www.asrockind.com/en-gb/4X4-7840U-1U
 
-Front I/O
-it features:
+Front I/O features:
 1. 2 USB4 (Type-C) ports, DisplayPort 1.4a output
 2. 1 USB3.2 Gen2 (Type-A)
 3. 1 combo audio jack (microphone and headphone)
 <img width="404" height="154" alt="Screenshot 2026-06-15 214854" src="https://github.com/user-attachments/assets/23c1adf7-ae8c-413d-be2b-3f7bf95e20ca" />
 
-Back I/O
-it features:
+Back I/O features:
 1. 2 HDMI 2.0 ports (supports 4096x2160 @ 60Hz)
  Note: Depending on whether you are looking at the Mini PC (BOX) or the bare Motherboard (SBC), some variants list HDMI 1.4b
 2. 1 x 2.5 Gigabit LAN port (Realtek controller)
